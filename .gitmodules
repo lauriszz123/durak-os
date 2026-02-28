@@ -17,3 +17,6 @@
 [submodule "external/purplpkg"]
 	path = external/purplpkg
 	url = https://github.com/purpl-org/purplpkg
+[submodule "anki/victor"]
+	path = anki/victor
+	url = git@github.com:lauriszz123/durak-os-victor.git
